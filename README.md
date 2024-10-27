@@ -10,8 +10,8 @@ current projects:
 - contributing to webfishing.wiki.gg
 
 contact @
-Discord - lunainthewoods
-Bluesky - lunainthewoods
+- Discord - lunainthewoods
+- Bluesky - lunainthewoods
 
 <!---
 look behind and you will find
