@@ -7,7 +7,7 @@ learning:
 
 current projects:
 - building webserver & website
-- contributing to webfishing.wiki.gg
+- tags4nfs; tag filesystem across multiple OSes
 
 contact @
 - Discord - lunainthewoods
