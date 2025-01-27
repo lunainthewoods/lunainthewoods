@@ -8,6 +8,7 @@ learning:
 current projects:
 - building webserver & website
 - tags4nfs; tag filesystem across multiple OSes
+- manageer; adhd-focused task management system
 
 contact @
 - Discord - lunainthewoods
